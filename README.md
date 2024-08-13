@@ -1,1 +1,3 @@
-# Hello World
+- this is a sample file for my first github project in  CS3
+- please clone this repository to your repo.
+- https://github.com/AltheaRobee/ComputerScience3
